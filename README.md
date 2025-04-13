@@ -1,4 +1,6 @@
 # gemma3-4b-it-herron
+This repository provides a script to evaluate the Gemma 3 model using the Japanese-Heron-Bench dataset. The evaluation focuses on vision-language capabilities in Japanese, where each sample consists of a local image file and a text-based question.
+
 
 ## Overview
 
