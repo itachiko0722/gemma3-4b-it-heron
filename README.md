@@ -51,7 +51,7 @@ If the model requires authentication:
 huggingface-cli login
 ```
 
-## Output File (gemma3_interface-heron.jsonl)
+## Output File (gemma3_inference-heron.jsonl)
 
 Each line is a valid JSON object:
 
