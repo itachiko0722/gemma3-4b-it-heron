@@ -79,14 +79,6 @@ Each line is a valid JSON object:
 - Creates chat-style inputs for Gemma 3.
 - Generates and saves answers to `gemma3_output.jsonl`.
 
-### Running the Script
-
-Ensure your environment is ready and images/questions files are in place:
-
-```bash
-python gemma_heron_eval.py
-```
-
 ## Important Notes
 
 - **Local Images:** Ensure images are correctly placed relative to the script.
